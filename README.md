@@ -1,4 +1,4 @@
-# Simplified-Computer-components-in-VHDL
+# Simplified-CPU-components-in-VHDL
 
 ## ALU
 <p align="justify">
